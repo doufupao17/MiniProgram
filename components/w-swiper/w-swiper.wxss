@@ -1,0 +1,10 @@
+/* components/w-swiper/w-swiper.wxss */
+.swiper {
+  height: 360rpx;
+}
+
+.swiper-image {
+  /* 图片的宽度设置为100%,完全占据，解决Bug */
+  width: 100%;
+  /* height: 100%; */
+}
